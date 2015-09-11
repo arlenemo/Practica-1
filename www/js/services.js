@@ -32,7 +32,7 @@ angular.module('starter.services', [])
   }, {
     id: 3,
     name: 'Marcela mad',
-    lastText: 'Te estoy buscando?',
+    lastText: 'Te estoy buscando!',
     face: 'https://scontent-lax3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1176283_10153208355615317_2089314944_n.jpg?oh=00378cead46a47e27c3ba8bfb11c5b98&oe=566F5CFA'
   }, {
   }];
